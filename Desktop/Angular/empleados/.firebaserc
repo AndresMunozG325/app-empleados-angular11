@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-e7ced": {
+      "hosting": {
+        "empleados": [
+          "empleados-e7ced"
+        ]
+      }
+    }
+  }
+}
